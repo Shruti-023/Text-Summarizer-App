@@ -23,13 +23,6 @@ The **Text Summarizer App** is an AI-powered web application that generates shor
 ## 📸 Output
 ![Output](output.png)
 
-## 📖 How to Use
-
-1. Open the application.
-2. Paste or type the text you want to summarize.
-3. Click the **Summarize** button.
-4. View and copy the generated summary.
-
 ## 🎯 Project Objective
 
 The objective of this project is to build an AI-based application that simplifies reading by generating concise summaries while preserving the main meaning of the original text.
