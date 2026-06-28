@@ -20,6 +20,9 @@ The **Text Summarizer App** is an AI-powered web application that generates shor
 - **AI Model:** OpenAI GPT API
 - **Version Control:** Git & GitHub
 
+## 📸 Output
+![Output](output.png)
+
 ## 📖 How to Use
 
 1. Open the application.
